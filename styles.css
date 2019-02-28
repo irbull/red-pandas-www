@@ -1817,7 +1817,7 @@ select {
  Custom Styles
 -------------------------------------------------- */
 .logo-img {
-  max-width: 151px;
+  max-width: 240px;
 }
 /* List Bullet Points */
 ul.list-styled li::before {
