@@ -1096,7 +1096,7 @@ var options = {
 };
 
 // Initialise with options
-var banner = new Headhesive('.header-reveal', options);
+//var banner = new Headhesive('.header-reveal', options);
 // Headhesive destroy
 // banner.destroy();
 
